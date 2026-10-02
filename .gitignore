@@ -1,0 +1,5 @@
+# CMake-generated build output
+build/
+
+# Dependencies installed locally by vcpkg
+vcpkg_installed/
