@@ -3,3 +3,5 @@ build/
 
 # Dependencies installed locally by vcpkg
 vcpkg_installed/
+
+.vscode/
